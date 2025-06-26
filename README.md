@@ -4,16 +4,16 @@ This project is a real-time animated water ripple shader written in GLSL. It sim
 
 ## Features
 
-- 🌊 **Procedural Ripple Simulation**  
+- **Procedural Ripple Simulation**  
   Ripples are generated using sine and radial wave equations, creating circular patterns that mimic real water movement.
 
-- 🔀 **Displacement Mapping**  
+- **Displacement Mapping**  
   The water surface is distorted in the vertex shader based on dynamic wave calculations.
 
-- ⏱️ **Time-Based Animation**  
+- **Time-Based Animation**  
   Ripples animate outward over time, simulating the natural decay and propagation of water waves.
 
-- 🧼 **Fading Effects**  
+- **Fading Effects**  
   Ripples gradually fade as they move outward, creating a smooth, realistic water decay effect.
 
 ## How It Works

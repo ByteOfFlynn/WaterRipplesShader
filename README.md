@@ -2,6 +2,9 @@
 
 This project is a real-time animated water ripple shader written in GLSL. It simulates the natural motion of water using procedural ripple generation, displacement mapping, and time-based animations. The result is a visually realistic water surface that reacts dynamically over time, complete with ripple expansion and fading effects.
 
+![image](https://github.com/user-attachments/assets/85e045e3-8e9a-4bf5-aebf-9853cdf80fb8)
+
+
 ## Features
 
 - **Procedural Ripple Simulation**  
